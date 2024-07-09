@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "firebase": "^10.12.2",
+    "vue-router": "^4.0.13"
+  }
+}
